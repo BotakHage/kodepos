@@ -1,0 +1,38 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+/* 
+:host {
+  display: block;
+  color: white;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+} */
+
+header {
+  background-color: #fe7f2d;
+  padding: 20px;
+  text-align: center;
+  color: #fff8f0;
+}
+
+main {
+  margin-top: 40px;
+  text-align: center;
+}
+
+
+
+/* CSS untuk area tampilan data di bawahnya */
+/*
+#dataContainer {
+  margin: 35px auto;
+  width: 80%;
+  background-color: #f9f9f9;
+  padding: 20px;
+  border: 1px solid #ccc; 
+  border-radius: 5px;
+}
+
+*/
